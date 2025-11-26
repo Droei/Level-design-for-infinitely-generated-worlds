@@ -18,12 +18,17 @@ A big subject I now want to write about is the long round way around walking to 
 The idea is on how the road forces you to walk around the building seeing it from all angles, from afar from the side from the back really building up the moment you finally get in front. I find this a very nice way to giving players a goal and to build up anticipation procedurally!
 
 When building a procedural world in simple terms: As I want to work with a modular principle like minecraft the world will be cut into different parts where different worlds can spawn upon. Imagine I want to make a world that has a "Parthenon" type building in the center. If I where to wrap the uv's of the mountains around this building towards the center using a neat function named Arctangent2
+
 ![Noise pulled to the center](images/2-Atan2Noise.png)
+
 Now our mountains are pulled to the center of the world, so what if instead of just traight mountains we can just twirl hat same vector, yeah ofcorse that's possible !
+
 ![Noise twirled to the center](images/3-Atan2TwirlNoise.png)
+
 Now we spawn mountains that delay your path but give way for differences in height, we can move the center to be more to the back for longer walks or closer by so the start of the area is more visible from other regions, the ending can be in an elevated position or maybe its deep under ground, either way using smoothstep in the center area we can smoothly make the mountains blend with our building in the center!
 
 This might work!!!
+
 ![OMG](images/4-omg.gif)
 
 There is still a lot to go through here but I'l excited to try this out!
