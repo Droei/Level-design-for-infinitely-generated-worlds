@@ -118,3 +118,34 @@ But as I'm writing shit one thing becomes clear. Levels can be both!
 See I have the best girlfriend in the world and she found a way around this mess of a person that's me. As I clearly have a big need for predictability knowing what's coming yet I need to be suprised she worked around it and combined the 2 together. I know something unpredictable is coming but I won't be able to guess. Its not to unpredictable that its frustrating imagine at random intervals you get jumped by some random monster, no scene grows dark anticipation hit your prediction brain turns on you know something is coming but you don't know what but you know something is there triggering both your sides. anticipation you know something will happen and you are prepared you predict it but you can't guess what you get suprised while still hitting that sweet read of "Yes I knew it". Well as I'm writing this I'm actually a bit mad at my girlfriend cuz she was way to harsh about the board game I proudly presented to her (Also very unpredictable), bot god dammit I fckn love you and I hope you never forget that!
 
 Well how do I do this procedurally? Well I guess that's something environmental storytelling can answer. But I guess adding stuff like fog thickening or sound will be pure gold!
+
+
+## Spartial Size types
+
+Well gang, I have sad news for many of ma bro's out there (But none for me, well actually too much is also not good sometimes) but size does matter!
+Not just any size... SPARTIAL SIZE!!! So what is it I have no clue??? Game Space size? The book talks bout 3 different size types. I guess big, medium and small....
+We'll figure it out as we go!
+
+### Narrow Space
+
+Source: An Architectual Approach to Level Design: 118 - 
+
+
+A space where the player feels confined and unable to move. 
+According to the book these spaces should not be larger than a player characters own size metrics.
+
+Narrow spaces create tensionn by giving space scarcity, space becomes a valuable resource.
+
+![Space scarce examples](images/10-space-scarce.png)
+
+As space is narrow comfrontation becomes more inevitable it creates tension and that prediction brain we talked about earlier (OMG SO THATS WHY THIS IS SPARTIAL SIZE TYPES AND EARLIER ABOUT SPARTIAL ARRANGEMENTS ITS ALL COMING TOGETHER!!!)
+It readies the player to be ready for something, not because they know something will come, nothing can come but you humanly just get more uncomfortable as space becomes limited and your movements are limited.
+
+5 months ago I found such an amazing game design thing that basically almost killed me in Majorca! We went diving at the rocks and our guide told us "You can dive the tunnel there and you can find something amazing" (Well guess I was almost about to find myself in heaven)
+The tunnel there he talked about was... WELL THERE WHERE 2 TUNNELS AND ONE WAS NOT SAFE!!!! Well guess what, I just learned the hard way how far you can pull this Narrow game design shit. As I dove that fckn tunnel instead of enemies scaring me to kill me I was running out of air, I was in a narrow fckn tunnel full of sharp edges completely fucking me over while I was already 45 seconds under water with no end in sight, no way of turning because shit was too fckn narrow and sharp and a girlfriend I deeply loved waiting for me unknowing she was about to experience one of my signature near death experiences for the first time! Yeah I was scared af but I stayed calm the narrow space was fucking me over the pressure of no breath was scaring me but I only had one option: go forward stay calm to not hit my head or fuck myself over and hope for the best as I focussed on moving forward slowly but quickly. Part of it was experience with almost dying often another part was human instinct, I had no other choice but to go forward because I didn't want to die and the narrow space was scaring the shit outa me, then I saw air again "HOZAAAAAAAAAAAAAAAAAAAAAAAAAHHHH" world never looked so massive to me!!!! So how's that for a setup to a massive J-spot!!!!
+
+I luckily I survived with just a few scratches and bruises
+![Me after getting out of that cave](images/11-cave-survival.png)
+
+Anyway this pressure can come in many ways and honestly I love using my own real life examples to understanding these concepts, its such a nice way to understand concepts this way.
+I don't know if my way of writing everything down that comes to mind is something that works for others, but for me it really helps with putting my mind in order!
