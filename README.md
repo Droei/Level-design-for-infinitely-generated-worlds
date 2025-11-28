@@ -9,6 +9,8 @@ In this research I'm looking into how to make the bridge between intentional & c
 Source: An Architectural perspective to level design page: 104 - 112
 
 ### Arrivals
+
+#### Parthenon
 A very interesting topic I just have to note down is **Arrivals**. As the book states "Level esign is an art of sight lines, pathways, dramatic lead-ups, and ambiguity about the nature of where you are going.". Much of the communication to the player happens through the arrival in a space.
 
 A big subject I now want to write about is the long round way around walking to the Patrthenon. I find this to be a very interesting concept that has a lot of potential to be implemented procedurally.
@@ -33,6 +35,24 @@ This might work!!!
 
 There is still a lot to go through here but I'l excited to try this out!
 
+
+#### Jesus Christ spot
+
+Well arrivals is a very interesting topic so I shall now bestow some more words to this subject! As I believe the arrivals seem like the more feasible procedural implementations when considering all the nasty technicalities I'll be going through!
+
+An interesting line I'd like to remember: "If you are arriving in a big space, spaces leading up to it should be encosed so the new space seems even bigger, light spaces should be precided by dark etc."
+Interesting stuff so basically you make something pop by having the exact opposite before it? Nothing new but very good to note and also doesn't sound to bad to implement!
+
+So there is this this hotel named "Haytt Regency Atlan ta hotel and it has an atrium space dubbed the "Jesus Christ spot" that I will proudly dub the J-spot for the rest of this document!
+The effect is that as you walk into the hotel  it starts small with lower ceilinged spaces and as you walk outside it gets soo high that you mutter "Jesus Christ!" as you look upward.
+
+This is implemented in games like The Legend of Zelda and Metroid series.
+Below a picture of how it would look in a side view.
+
+![Legend of Zelda J-spot](images/9-Legend-of-zelda-JSpot.png)
+
+I have seen this effect many times in games, even though I'm now genuinely to physically disabled to enjoy most games. I remember swimming around in Subnautical and encountering big caves with beautiful light after having to dive down deep through narrow tunnels to get there, only now I can truly understand how this is done, its not just about the diffence between start and end but also as you see in the picture the suddeness, you are looking at the sword when you come in, you can't see what's above you and as you walk in your view grows and you see everything. Its like an exponent you go from nothing to almost seeing everything instantly.
+Its such a simple concept with soo much more depth than you can just come up with!
 
 ## Considerations of camera
 
