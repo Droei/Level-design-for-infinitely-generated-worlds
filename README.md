@@ -145,6 +145,8 @@ It readies the player to be ready for something, not because they know something
 The tunnel there he talked about was... WELL THERE WHERE 2 TUNNELS AND ONE WAS NOT SAFE!!!! Well guess what, I just learned the hard way how far you can pull this Narrow game design shit. As I dove that fckn tunnel instead of enemies scaring me to kill me I was running out of air, I was in a narrow fckn tunnel full of sharp edges completely fucking me over while I was already 45 seconds under water with no end in sight, no way of turning because shit was too fckn narrow and sharp and a girlfriend I deeply loved waiting for me unknowing she was about to experience one of my signature near death experiences for the first time! Yeah I was scared af but I stayed calm the narrow space was fucking me over the pressure of no breath was scaring me but I only had one option: go forward stay calm to not hit my head or fuck myself over and hope for the best as I focussed on moving forward slowly but quickly. Part of it was experience with almost dying often another part was human instinct, I had no other choice but to go forward because I didn't want to die and the narrow space was scaring the shit outa me, then I saw air again "HOZAAAAAAAAAAAAAAAAAAAAAAAAAHHHH" world never looked so massive to me!!!! So how's that for a setup to a massive J-spot!!!!
 
 I luckily I survived with just a few scratches and bruises
+
+
 <img src="images/11-cave-survival.png" width="300">
 
 Anyway this pressure can come in many ways and honestly I love using my own real life examples to understanding these concepts, its such a nice way to understand concepts this way.
