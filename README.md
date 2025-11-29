@@ -122,7 +122,7 @@ Well how do I do this procedurally? Well I guess that's something environmental 
 
 ## Spartial Size types
 
-Source: An Architectual Approach to Level Design: 118 - 
+Source: An Architectual Approach to Level Design: 118 - 125
 
 Well gang, I have sad news for many of ma bro's out there (But none for me, well actually too much is also not good sometimes) but size does matter!
 Not just any size... SPARTIAL SIZE!!! So what is it I have no clue??? Game Space size? The book talks bout 3 different size types. I guess big, medium and small....
@@ -231,3 +231,48 @@ Still very interesting notion on how to create and relieve tension through phasi
 
 Letsgooooooooooooooooooooooooooooooooooooooooo, big win!
 
+
+
+## Sandbox  Gamespaces
+Source: An architectual approach to level design p135 - 
+
+Probably the most relevant part I've touched on right now for me as the book says: In single player games, developers create the feeling of large open world by utilizing sandbox gamespaces. Sandbox worlds are named for their ability to have defined boundaries but also allow players to play however they want in less structured ways than many other games allow.
+
+So here something already kinda contradicts: "Definded boundaries" well sadly no smart explanation it just doesn't fit it seems, but I googled "Is Minecraft a sandboox game?" and Mr Google said "yes". I assume the definition definitly varries because I also consider Minecraft a sandbox game but hey that's why I think this is hyper relevant. I feel like the core concept of a Sandbox game being highly customisable with no mandatory goals and a lot of freedom very accurate for my research, so hey what does the book tell us?
+
+### Architectual Weenies
+Before I start disecting the part I first want to dive deeper in the concept of "Architectual Weenies"! What are they? Well the book says they are an integral part of sandbox spaces. They allow these worlds to retain their openess but still direct players to places that designers want them to go. An often mentioned example is sleeping beauty's castle, its the big thing that pulls your attention, it invites you in and sets a goal on where to go.
+My personal idea of a very obvious architectual weenie is that big golden tree in Elden ring, its like the one thing you see everywhere, the one thing that tells you without guide where to go, you get attracted to it like a fly to a lamp as you march through the world with no clue what its actually for, to this day I still don't know if I could have actually reached it... But god dammit did I keep chasing that tree for hours!
+
+![Golden tree](images/22-golden-tree.avif)
+
+The basica idea of architectual weenies is to move the player towards a goal, I have no clue if we can have multiple architectual weenies or how that works but I think its possible. Earlier in *Considerations of camera* I concluded a big part of infinite procedurally generated worlds need some kind of guidance to make it work with good level design and I bet Architectual Weenies will contribute to this idea in such a massive way!
+
+
+### Organizing the sandbox: Kevin Lynch's Image of the City
+
+Finding your way in a large open space is daunting so there are quite some organization principles on how to structure urban spaces. There is this book named "The Image of the City" which is the resulkt of a 5 year study of how people form mental maps of cities. We will hit each individual part and figure out how they influence your mental map!
+
+#### Landmarks
+Landmarks are kinda like Architectual weenies in a sense that they are a guidepost to people in an urban space. It a convenient way to pull the players attention to it but also allows the player to orient themselves.
+Ofcorse this is not just for urban styled games, landmarks can be anythin g like natural objects or human made elements that contrast well with the landscape!
+
+An interesting landmark, I mean I guess it is it definitly is an architectual weenie is how that sunken ship makes you check out towards it where you get absolutely fucked up by your first leviathan class monster!
+What makes it also interesting is how the front is way further away from you than the back making you go towards that side which is exactly where the developers wanted you to be to put some real fear inside of you!
+
+![Golden tree](images/23-subnautica-ship.avif)
+
+
+#### Paths
+Well paths are what you'd think of paths, in urban spaces you can see them as: Roads, sidewalks and other matters of transport like over water in venice!!!
+Its sole purpose is usually to guide a player to the next point. But another example mentioned is Elder Scrolls, they don't represent their sandboxes as large urban spaces but as open landscapes. Seems like their paths between towns, dungeons etc would be large open spaces. But how do I call this a path? Well actually as stated in the book they use subtle geagoraphic features like dirt paths, signposts or even rivers to invoke some notion of direction in areas without a clear path. Its important to remember that paths aren't just looking nice but truly make a difference on how the player explores the world.
+
+Cmon! I just had to have a feature of the game of the year contender "The Life of Mr Pips" is it too far fetched that a strawberry surfing a leaf over water is a good example of good path design?
+Well actually I don't think it does because I don't consider "The Life of Mr Pips" a sandbox game, but god dammit Mr Pips goes beyond game design so I'll put it in!
+
+![Golden tree](images/24-Mr-Pips-Rafting path.png)
+![Golden tree](images/25-pip-rafting.gif)
+
+
+#### Nodes
+I actually have no clue how 
